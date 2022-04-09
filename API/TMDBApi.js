@@ -8,7 +8,7 @@ export function getFilmsFromApiWithSearchedText (text, page) {
 
   }
   // API/TMDBApi.js
-
+ // test
 export function getImageFromApi (name) {
     return 'https://image.tmdb.org/t/p/w300' + name
   }
